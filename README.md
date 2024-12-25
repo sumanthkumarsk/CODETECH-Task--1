@@ -1,3 +1,18 @@
+Name : Sumanth Kumar C 
+
+Company: CODETECH
+
+Id:CT08DS223
+
+Domain:Data Science
+
+Duration:NOV 30th, 2024 - DEC 30th, 2024 
+
+TASK 2:
+
+
+
+
 Exploratory Data Analysis (EDA) on Student Scores Dataset
 
 Overview
