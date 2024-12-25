@@ -56,7 +56,7 @@ Steps and Observations
 7. Parental Education Impact
 - Grouped data by `ParentEduc` to calculate the mean of `MathScore`, `ReadingScore`, and `WritingScore`.
 - A heatmap was plotted to visualize the impact.
- ![image](https://github.com/user-attachments/assets/3a382a5b-7edc-41cc-b4b6-b6a68c16b1f1)
+![image](https://github.com/user-attachments/assets/3a382a5b-7edc-41cc-b4b6-b6a68c16b1f1)
 - Observation: Parental education significantly influences student scores.
 
 8. Parental Marital Status Impact
